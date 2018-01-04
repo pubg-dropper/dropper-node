@@ -1,0 +1,1003 @@
+{
+  "Major Cities": [
+    {
+      "name": "Zharki",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "B0", "y": "J1"},
+        {"x": "B0", "y": "J2"},
+        {"x": "B0", "y": "J3"},
+        {"x": "B0", "y": "J4"},
+        {"x": "B1", "y": "J1"},
+        {"x": "B1", "y": "J2"},
+        {"x": "B1", "y": "J3"},
+        {"x": "B2", "y": "J1"},
+        {"x": "B3", "y": "J2"},
+        {"x": "B3", "y": "J1"},
+        {"x": "B3", "y": "J2"},
+        {"x": "B4", "y": "J1"}
+      ],
+      "weightMin": 0,
+      "weightMax": 30
+    },
+    {
+      "name": "Severny",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "D6", "y": "J1"},
+        {"x": "D6", "y": "J2"},
+        {"x": "D6", "y": "J3"},
+        {"x": "D7", "y": "J1"},
+        {"x": "D7", "y": "J2"},
+        {"x": "D7", "y": "J3"},
+        {"x": "D8", "y": "J1"},
+        {"x": "D8", "y": "J2"},
+        {"x": "D8", "y": "J3"},
+        {"x": "D9", "y": "J3"}
+      ],
+      "weightMin": 0,
+      "weightMax": 30
+    },
+    {
+      "name": "Stalber",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "F4", "y": "J2"},
+        {"x": "F4", "y": "J3"},
+        {"x": "F5", "y": "J1"},
+        {"x": "F5", "y": "J2"},
+        {"x": "F5", "y": "J3"},
+        {"x": "F6", "y": "J1"},
+        {"x": "F6", "y": "J2"},
+        {"x": "F6", "y": "J3"},
+        {"x": "F7", "y": "J1"},
+        {"x": "F7", "y": "J2"},
+        {"x": "F7", "y": "J3"}
+      ],
+      "weightMin": 0,
+      "weightMax": 30
+    },
+    {
+      "name": "Kameshki",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "G4", "y": "J0"},
+        {"x": "G4", "y": "J1"},
+        {"x": "G5", "y": "I8"},
+        {"x": "G5", "y": "I9"},
+        {"x": "G5", "y": "J0"},
+        {"x": "G5", "y": "J1"},
+        {"x": "G6", "y": "I9"},
+        {"x": "G6", "y": "J0"},
+        {"x": "G6", "y": "J1"}
+      ],
+      "weightMin": 0,
+      "weightMax": 30
+    },
+    {
+      "name": "Georgopol",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "B0", "y": "K8"},
+        {"x": "B0", "y": "K9"},
+        {"x": "B1", "y": "K8"},
+        {"x": "B1", "y": "K9"},
+        {"x": "B2", "y": "K7"},
+        {"x": "B2", "y": "K8"},
+        {"x": "B2", "y": "K9"},
+        {"x": "B2", "y": "L0"},
+        {"x": "B3", "y": "K0"},
+        {"x": "B3", "y": "K1"},
+        {"x": "B3", "y": "K7"},
+        {"x": "B3", "y": "K8"},
+        {"x": "B3", "y": "K9"},
+        {"x": "B4", "y": "K0"},
+        {"x": "B4", "y": "K1"},
+        {"x": "B4", "y": "K6"},
+        {"x": "B4", "y": "K7"},
+        {"x": "B4", "y": "K8"},
+        {"x": "B4", "y": "K9"},
+        {"x": "B4", "y": "L0"},
+        {"x": "B5", "y": "J9"},
+        {"x": "B5", "y": "K0"},
+        {"x": "B5", "y": "K1"},
+        {"x": "B5", "y": "K6"},
+        {"x": "B5", "y": "K7"},
+        {"x": "B5", "y": "K8"},
+        {"x": "B5", "y": "K9"},
+        {"x": "B6", "y": "J9"},
+        {"x": "B6", "y": "K0"},
+        {"x": "B6", "y": "K1"},
+        {"x": "B6", "y": "K2"},
+        {"x": "B6", "y": "K6"},
+        {"x": "B6", "y": "K7"},
+        {"x": "B6", "y": "K8"},
+        {"x": "B6", "y": "K9"},
+        {"x": "B7", "y": "K0"},
+        {"x": "B7", "y": "K1"},
+        {"x": "B7", "y": "K2"},
+        {"x": "B7", "y": "K7"},
+        {"x": "B7", "y": "K8"},
+        {"x": "B7", "y": "K9"},
+        {"x": "B7", "y": "L0"},
+        {"x": "B8", "y": "K0"},
+        {"x": "B8", "y": "K1"},
+        {"x": "B8", "y": "K2"},
+        {"x": "B8", "y": "K3"},
+        {"x": "B8", "y": "K6"},
+        {"x": "B8", "y": "K7"},
+        {"x": "B8", "y": "K8"},
+        {"x": "B8", "y": "K9"},
+        {"x": "B9", "y": "K0"},
+        {"x": "B9", "y": "K1"},
+        {"x": "B9", "y": "K2"},
+        {"x": "B9", "y": "K3"},
+        {"x": "B9", "y": "K4"},
+        {"x": "B9", "y": "K5"},
+        {"x": "B9", "y": "K6"},
+        {"x": "B9", "y": "K7"},
+        {"x": "B9", "y": "K8"},
+        {"x": "B9", "y": "K9"},
+        {"x": "C0", "y": "K1"},
+        {"x": "C0", "y": "K2"},
+        {"x": "C0", "y": "K3"},
+        {"x": "C0", "y": "K4"},
+        {"x": "C0", "y": "K5"},
+        {"x": "C0", "y": "K6"},
+        {"x": "C0", "y": "K7"},
+        {"x": "C0", "y": "K8"},
+        {"x": "C1", "y": "K2"},
+        {"x": "C1", "y": "K3"},
+        {"x": "C1", "y": "K4"},
+        {"x": "C1", "y": "K5"},
+        {"x": "C1", "y": "K6"},
+        {"x": "C1", "y": "K7"},
+        {"x": "C1", "y": "K8"},
+        {"x": "C2", "y": "K3"},
+        {"x": "C2", "y": "K4"},
+        {"x": "C2", "y": "K6"},
+        {"x": "C2", "y": "K8"}
+      ],
+      "weightMin": 0,
+      "weightMax": 30
+    },
+    {
+      "name": "Rozhok",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "D8", "y": "K7"},
+        {"x": "D8", "y": "K8"},
+        {"x": "D8", "y": "K9"},
+        {"x": "D9", "y": "K7"},
+        {"x": "D9", "y": "K8"},
+        {"x": "D9", "y": "K9"},
+        {"x": "E0", "y": "K7"},
+        {"x": "E0", "y": "K8"},
+        {"x": "E0", "y": "K9"},
+        {"x": "E0", "y": "L0"},
+        {"x": "E1", "y": "K8"},
+        {"x": "E1", "y": "K9"}
+      ],
+      "weightMin": 0,
+      "weightMax": 30
+    },
+    {
+      "name": "Yasnaya Polyana",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "E9", "y": "K2"},
+        {"x": "E9", "y": "K3"},
+        {"x": "F0", "y": "K2"},
+        {"x": "F0", "y": "K3"},
+        {"x": "F0", "y": "K4"},
+        {"x": "F0", "y": "K5"},
+        {"x": "F1", "y": "K2"},
+        {"x": "F1", "y": "K3"},
+        {"x": "F1", "y": "K4"},
+        {"x": "F1", "y": "K5"},
+        {"x": "F2", "y": "K1"},
+        {"x": "F2", "y": "K2"},
+        {"x": "F2", "y": "K3"},
+        {"x": "F2", "y": "K4"},
+        {"x": "F3", "y": "K1"},
+        {"x": "F3", "y": "K2"},
+        {"x": "F3", "y": "K3"},
+        {"x": "F3", "y": "K4"},
+        {"x": "F3", "y": "K5"},
+        {"x": "F4", "y": "K1"},
+        {"x": "F4", "y": "K2"},
+        {"x": "F4", "y": "K3"},
+        {"x": "F4", "y": "K4"},
+        {"x": "F4", "y": "K5"},
+        {"x": "F5", "y": "K1"},
+        {"x": "F5", "y": "K2"},
+        {"x": "F5", "y": "K3"},
+        {"x": "F5", "y": "K4"},
+        {"x": "F5", "y": "K5"},
+        {"x": "F6", "y": "K1"},
+        {"x": "F6", "y": "K4"},
+        {"x": "F6", "y": "K5"}
+      ],
+      "weightMin": 0,
+      "weightMax": 30
+    },
+    {
+      "name": "Lipovka",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "G8", "y": "L1"},
+        {"x": "G8", "y": "L3"},
+        {"x": "G8", "y": "L4"},
+        {"x": "G9", "y": "L1"},
+        {"x": "G9", "y": "L2"},
+        {"x": "G9", "y": "L3"},
+        {"x": "G9", "y": "L4"},
+        {"x": "H0", "y": "L1"},
+        {"x": "H0", "y": "L2"},
+        {"x": "H0", "y": "L3"},
+        {"x": "H1", "y": "L2"}
+      ],
+      "weightMin": 0,
+      "weightMax": 30
+    },
+    {
+      "name": "Gatka",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "C0", "y": "L5"},
+        {"x": "C0", "y": "L6"},
+        {"x": "C0", "y": "L7"},
+        {"x": "C0", "y": "L8"},
+        {"x": "C1", "y": "L5"},
+        {"x": "C1", "y": "L6"},
+        {"x": "C1", "y": "L7"},
+        {"x": "C1", "y": "L8"},
+        {"x": "C1", "y": "L9"},
+        {"x": "C2", "y": "L5"},
+        {"x": "C2", "y": "L8"}
+      ],
+      "weightMin": 0,
+      "weightMax": 30
+    },
+    {
+      "name": "Pochinki",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "D1", "y": "L8"},
+        {"x": "D1", "y": "L9"},
+        {"x": "D2", "y": "L8"},
+        {"x": "D2", "y": "L9"},
+        {"x": "D3", "y": "L8"},
+        {"x": "D3", "y": "L9"},
+        {"x": "D4", "y": "L8"},
+        {"x": "D4", "y": "L9"},
+        {"x": "D4", "y": "M0"},
+        {"x": "D4", "y": "M1"},
+        {"x": "D4", "y": "M2"},
+        {"x": "D5", "y": "L8"},
+        {"x": "D5", "y": "L9"},
+        {"x": "D5", "y": "M0"},
+        {"x": "D5", "y": "M1"},
+        {"x": "D6", "y": "L8"},
+        {"x": "D6", "y": "L9"},
+        {"x": "D6", "y": "M0"},
+        {"x": "D6", "y": "M1"},
+        {"x": "D7", "y": "L8"},
+        {"x": "D7", "y": "L9"},
+        {"x": "D7", "y": "M0"},
+        {"x": "D7", "y": "M1"}
+      ],
+      "weightMin": 0,
+      "weightMax": 30
+    },
+    {
+      "name": "Mylta",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "F6", "y": "M7"},
+        {"x": "F6", "y": "M8"},
+        {"x": "F7", "y": "M6"},
+        {"x": "F7", "y": "M7"},
+        {"x": "F8", "y": "M6"},
+        {"x": "F8", "y": "M7"},
+        {"x": "F8", "y": "M8"},
+        {"x": "F9", "y": "M5"},
+        {"x": "F9", "y": "M6"},
+        {"x": "F9", "y": "M7"},
+        {"x": "F9", "y": "M8"},
+        {"x": "G0", "y": "M7"},
+        {"x": "G0", "y": "M8"},
+        {"x": "G0", "y": "M9"},
+        {"x": "G1", "y": "M8"}
+      ],
+      "weightMin": 0,
+      "weightMax": 30
+    },
+    {
+      "name": "Mylta Power",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "H0", "y": "M1"},
+        {"x": "H0", "y": "M2"},
+        {"x": "H0", "y": "M3"},
+        {"x": "H0", "y": "M4"},
+        {"x": "H1", "y": "M1"},
+        {"x": "H1", "y": "M2"},
+        {"x": "H1", "y": "M3"},
+        {"x": "H1", "y": "M4"},
+        {"x": "H2", "y": "M1"},
+        {"x": "H2", "y": "M2"},
+        {"x": "H2", "y": "M3"},
+        {"x": "H2", "y": "M4"},
+        {"x": "G7", "y": "M5"},
+        {"x": "G7", "y": "M6"},
+        {"x": "G8", "y": "M5"}
+      ],
+      "weightMin": 0,
+      "weightMax": 30
+    },
+    {
+      "name": "Primorsk",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "B3", "y": "N7"},
+        {"x": "B3", "y": "N8"},
+        {"x": "B4", "y": "N7"},
+        {"x": "B4", "y": "N8"},
+        {"x": "B4", "y": "N9"},
+        {"x": "B4", "y": "O0"},
+        {"x": "B4", "y": "O1"},
+        {"x": "B5", "y": "N8"},
+        {"x": "B5", "y": "N9"},
+        {"x": "B5", "y": "O0"},
+        {"x": "B5", "y": "O1"},
+        {"x": "B6", "y": "N8"},
+        {"x": "B6", "y": "N9"},
+        {"x": "B6", "y": "O0"},
+        {"x": "B6", "y": "O1"},
+        {"x": "B6", "y": "O2"},
+        {"x": "B7", "y": "O0"},
+        {"x": "B7", "y": "O1"},
+        {"x": "B7", "y": "O2"}
+      ],
+      "weightMin": 0,
+      "weightMax": 30
+    },
+    {
+      "name": "Novorepnoye",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "F8", "y": "N9"},
+        {"x": "F9", "y": "N8"},
+        {"x": "F9", "y": "N9"},
+        {"x": "F9", "y": "O0"},
+        {"x": "F9", "y": "O1"},
+        {"x": "G0", "y": "N8"},
+        {"x": "G0", "y": "N9"},
+        {"x": "G0", "y": "O0"},
+        {"x": "G0", "y": "O1"},
+        {"x": "G1", "y": "N8"},
+        {"x": "G1", "y": "N9"},
+        {"x": "G1", "y": "O0"},
+        {"x": "G1", "y": "O1"},
+        {"x": "G2", "y": "N9"},
+        {"x": "G2", "y": "O0"}
+      ],
+      "weightMin": 0,
+      "weightMax": 30
+    },
+    {
+      "name": "Military Base",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "E0", "y": "02"},
+        {"x": "E0", "y": "03"},
+        {"x": "E0", "y": "04"},
+        {"x": "E0", "y": "05"},
+        {"x": "E1", "y": "01"},
+        {"x": "E1", "y": "02"},
+        {"x": "E1", "y": "03"},
+        {"x": "E1", "y": "04"},
+        {"x": "E1", "y": "05"},
+        {"x": "E2", "y": "01"},
+        {"x": "E2", "y": "02"},
+        {"x": "E2", "y": "03"},
+        {"x": "E2", "y": "04"},
+        {"x": "E2", "y": "05"},
+        {"x": "E3", "y": "01"},
+        {"x": "E3", "y": "02"},
+        {"x": "E3", "y": "03"},
+        {"x": "E3", "y": "04"},
+        {"x": "E3", "y": "05"},
+        {"x": "E4", "y": "01"},
+        {"x": "E4", "y": "02"},
+        {"x": "E4", "y": "03"},
+        {"x": "E4", "y": "04"},
+        {"x": "E4", "y": "05"},
+        {"x": "E5", "y": "01"},
+        {"x": "E5", "y": "02"},
+        {"x": "E5", "y": "03"},
+        {"x": "E5", "y": "04"},
+        {"x": "E5", "y": "05"},
+        {"x": "E6", "y": "01"},
+        {"x": "E6", "y": "02"},
+        {"x": "E6", "y": "03"},
+        {"x": "E6", "y": "04"},
+        {"x": "E6", "y": "05"},
+        {"x": "E7", "y": "01"},
+        {"x": "E7", "y": "02"},
+        {"x": "E7", "y": "03"},
+        {"x": "E7", "y": "04"},
+        {"x": "E7", "y": "05"},
+        {"x": "E8", "y": "07"},
+        {"x": "E8", "y": "08"},
+        {"x": "E9", "y": "07"},
+        {"x": "E9", "y": "08"}
+      ],
+      "weightMin": 0,
+      "weightMax": 30
+    }
+  ],
+  "Hot Spots": [
+    {
+      "name": "Gun Range",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "D2", "y": "J6"},
+        {"x": "D2", "y": "J7"},
+        {"x": "D3", "y": "J5"},
+        {"x": "D3", "y": "J6"},
+        {"x": "D3", "y": "J7"},
+        {"x": "D4", "y": "J6"},
+        {"x": "D4", "y": "J7"}
+      ],
+      "weightMin": 31,
+      "weightMax": 70
+    },
+    {
+      "name": "Hospital",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "B4", "y": "L0"},
+        {"x": "B4", "y": "L1"},
+        {"x": "B5", "y": "L0"},
+        {"x": "B5", "y": "L1"}
+      ],
+      "weightMin": 31,
+      "weightMax": 70
+    },
+    {
+      "name": "Ruins",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "C9", "y": "L0"},
+        {"x": "C9", "y": "L1"},
+        {"x": "D0", "y": "L0"},
+        {"x": "D0", "y": "L1"},
+        {"x": "D0", "y": "L2"},
+        {"x": "D1", "y": "L0"},
+        {"x": "D1", "y": "L1"},
+        {"x": "D1", "y": "L2"}
+      ],
+      "weightMin": 31,
+      "weightMax": 70
+    },
+    {
+      "name": "School",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "E1", "y": "L1"},
+        {"x": "E1", "y": "L2"}
+      ],
+      "weightMin": 31,
+      "weightMax": 70
+    },
+    {
+      "name": "Mansion",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "G1", "y": "K9"}
+      ],
+      "weightMin": 31,
+      "weightMax": 70
+    },
+    {
+      "name": "Shelter",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "F8", "y": "L7"},
+        {"x": "F7", "y": "L8"}
+      ],
+      "weightMin": 31,
+      "weightMax": 70
+    },
+    {
+      "name": "Prison",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "G1", "y": "L6"},
+        {"x": "G1", "y": "L7"},
+        {"x": "G2", "y": "L6"}
+      ],
+      "weightMin": 31,
+      "weightMax": 70
+    },
+    {
+      "name": "Quarry",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "B4", "y": "N2"},
+        {"x": "B5", "y": "N0"},
+        {"x": "B5", "y": "N1"},
+        {"x": "B5", "y": "N2"},
+        {"x": "B5", "y": "N3"},
+        {"x": "B6", "y": "N1"},
+        {"x": "B6", "y": "N2"},
+        {"x": "B7", "y": "N0"},
+        {"x": "B7", "y": "N1"},
+        {"x": "B8", "y": "N1"}
+      ],
+      "weightMin": 31,
+      "weightMax": 70
+    },
+    {
+      "name": "Farm",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "F2", "y": "M4"},
+        {"x": "F2", "y": "M5"},
+        {"x": "F3", "y": "M4"},
+        {"x": "F3", "y": "M5"},
+        {"x": "F4", "y": "M4"},
+        {"x": "F4", "y": "M5"}
+      ],
+      "weightMin": 31,
+      "weightMax": 70
+    },
+    {
+      "name": "Ferry Pier",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "C6", "y": "N5"},
+        {"x": "C6", "y": "N6"},
+        {"x": "C6", "y": "N5"},
+        {"x": "C7", "y": "N4"},
+        {"x": "C7", "y": "N6"},
+        {"x": "C7", "y": "N5"},
+        {"x": "C7", "y": "N6"},
+        {"x": "C8", "y": "N5"},
+        {"x": "C8", "y": "N6"},
+        {"x": "C9", "y": "N5"},
+        {"x": "C9", "y": "N6"}
+      ],
+      "weightMin": 31,
+      "weightMax": 70
+    },
+    {
+      "name": "Yasnaya",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "E7", "y": "J7"},
+        {"x": "E7", "y": "J8"},
+        {"x": "E8", "y": "J7"},
+        {"x": "E8", "y": "J7"}
+      ],
+      "weightMin": 31,
+      "weightMax": 70
+    }
+  ],
+  "Remote Areas": [
+    {
+      "name": "Northwest Bunker",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "C3", "y": "J5"}
+      ],
+      "weightMin": 71,
+      "weightMax": 90
+    },
+    {
+      "name": "Plane Crash",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "C9", "y": "J9"}
+      ],
+      "weightMin": 71,
+      "weightMax": 90
+    },
+    {
+      "name": "Hay Farm",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "B2", "y": "L4"},
+        {"x": "B2", "y": "L5"},
+        {"x": "B2", "y": "L6"},
+        {"x": "B2", "y": "L7"},
+        {"x": "B2", "y": "L8"},
+        {"x": "B3", "y": "L5"},
+        {"x": "B3", "y": "L6"},
+        {"x": "B3", "y": "L7"},
+        {"x": "B3", "y": "L8"},
+        {"x": "B4", "y": "L5"},
+        {"x": "B4", "y": "L6"},
+        {"x": "B4", "y": "L7"},
+        {"x": "B5", "y": "L5"},
+        {"x": "B5", "y": "L6"},
+        {"x": "B5", "y": "L7"},
+        {"x": "B6", "y": "L5"},
+        {"x": "B6", "y": "L6"},
+        {"x": "B6", "y": "L7"},
+        {"x": "B6", "y": "L8"},
+        {"x": "B6", "y": "L9"},
+        {"x": "B7", "y": "L5"},
+        {"x": "B7", "y": "L6"},
+        {"x": "B7", "y": "L7"},
+        {"x": "B7", "y": "L8"},
+        {"x": "B7", "y": "L9"},
+        {"x": "B8", "y": "L5"},
+        {"x": "B8", "y": "L6"},
+        {"x": "B8", "y": "L7"},
+        {"x": "B8", "y": "L8"}
+      ],
+      "weightMin": 71,
+      "weightMax": 90
+    },
+    {
+      "name": "Water Town",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "D3", "y": "L0"},
+        {"x": "D3", "y": "L1"},
+        {"x": "D4", "y": "L0"},
+        {"x": "D4", "y": "L1"},
+        {"x": "D5", "y": "L0"}
+      ],
+      "weightMin": 71,
+      "weightMax": 90
+    },
+    {
+      "name": "Apartments)",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "E2", "y": "L2"},
+        {"x": "E2", "y": "L3"},
+        {"x": "E3", "y": "L2"},
+        {"x": "E3", "y": "L3"}
+      ],
+      "weightMin": 71,
+      "weightMax": 90
+    },
+    {
+      "name": "Pochinki Hills",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "D8", "y": "L3"},
+        {"x": "D8", "y": "L4"},
+        {"x": "D9", "y": "L4"},
+        {"x": "D9", "y": "L7"},
+        {"x": "E1", "y": "L4"},
+        {"x": "E1", "y": "L7"},
+        {"x": "E3", "y": "L8"}
+      ],
+      "weightMin": 71,
+      "weightMax": 90
+    },
+    {
+      "name": "Gatka Radio",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "B5", "y": "M0"}
+      ],
+      "weightMin": 71,
+      "weightMax": 90
+    },
+    {
+      "name": "Swamp Town",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "B2", "y": "M1"},
+        {"x": "B3", "y": "L9"},
+        {"x": "B3", "y": "M0"},
+        {"x": "B3", "y": "M1"},
+        {"x": "B3", "y": "M2"},
+        {"x": "B3", "y": "M3"},
+        {"x": "B3", "y": "M4"},
+        {"x": "B4", "y": "L8"},
+        {"x": "B4", "y": "L9"},
+        {"x": "B4", "y": "M0"},
+        {"x": "B4", "y": "M2"},
+        {"x": "B4", "y": "M3"},
+        {"x": "B5", "y": "L8"},
+        {"x": "B5", "y": "L9"},
+        {"x": "B5", "y": "M0"}
+      ],
+      "weightMin": 71,
+      "weightMax": 90
+    },
+    {
+      "name": "Gatka Trenches",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "C3", "y": "M1"},
+        {"x": "C3", "y": "M2"},
+        {"x": "C3", "y": "M3"},
+        {"x": "C4", "y": "L9"},
+        {"x": "C4", "y": "M0"},
+        {"x": "C4", "y": "M1"},
+        {"x": "C4", "y": "M2"},
+        {"x": "C4", "y": "M3"},
+        {"x": "C5", "y": "L8"},
+        {"x": "C5", "y": "M0"},
+        {"x": "C5", "y": "M1"},
+        {"x": "C6", "y": "L8"},
+        {"x": "C7", "y": "L8"},
+        {"x": "C7", "y": "L9"},
+        {"x": "C8", "y": "L9"}
+      ],
+      "weightMin": 71,
+      "weightMax": 90
+    },
+    {
+      "name": "Farmlands",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "C9", "y": "M9"}
+      ],
+      "weightMin": 71,
+      "weightMax": 90
+    },
+    {
+      "name": "Farm Ridge",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "E0", "y": "M7"},
+        {"x": "E1", "y": "M7"}
+      ],
+      "weightMin": 71,
+      "weightMax": 90
+    },
+    {
+      "name": "Woodcutter Camp",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "G0", "y": "M1"},
+        {"x": "G0", "y": "M2"},
+        {"x": "G1", "y": "M0"},
+        {"x": "G1", "y": "M1"},
+        {"x": "G2", "y": "M0"},
+        {"x": "G2", "y": "M1"},
+        {"x": "G3", "y": "M1"}
+      ],
+      "weightMin": 71,
+      "weightMax": 90
+    },
+    {
+      "name": "Ridge Complex",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "D4", "y": "N0"},
+        {"x": "D5", "y": "N0"},
+        {"x": "D5", "y": "N1"},
+        {"x": "D6", "y": "M9"},
+        {"x": "D6", "y": "N0"}
+      ],
+      "weightMin": 71,
+      "weightMax": 90
+    },
+    {
+      "name": "Novorepnoye Radio",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "F4", "y": "O1"}
+      ],
+      "weightMin": 71,
+      "weightMax": 90
+    },
+    {
+      "name": "West Novo bridge",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "D2", "y": "N1"},
+        {"x": "D2", "y": "N2"},
+        {"x": "D2", "y": "N3"},
+        {"x": "D2", "y": "N4"},
+        {"x": "D3", "y": "N3"},
+        {"x": "D3", "y": "N4"},
+        {"x": "D5", "y": "N6"},
+        {"x": "D6", "y": "N6"},
+        {"x": "D7", "y": "N6"}
+      ],
+      "weightMin": 91,
+      "weightMax": 100
+    },
+    {
+      "name": "East Novo bridge",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "E9", "y": "M9"},
+        {"x": "F0", "y": "M9"},
+        {"x": "F1", "y": "M9"},
+        {"x": "F2", "y": "M8"},
+        {"x": "F3", "y": "M9"},
+        {"x": "F3", "y": "N0"},
+        {"x": "F3", "y": "N8"},
+        {"x": "F4", "y": "M7"},
+        {"x": "F4", "y": "M8"},
+        {"x": "F4", "y": "M9"},
+        {"x": "F4", "y": "N8"},
+        {"x": "F4", "y": "N9"}
+      ],
+      "weightMin": 91,
+      "weightMax": 100
+    }
+  ],
+  "Miscellaneous": [
+    {
+      "name": "A remote area",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [],
+      "weightMin": 91,
+      "weightMax": 100
+    },
+    {
+      "name": "As an AFKer",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [],
+      "weightMin": 91,
+      "weightMax": 100
+    },
+    {
+      "name": "Southwest Military Island",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "D3", "y": "O8"},
+        {"x": "D6", "y": "O9"},
+        {"x": "D7", "y": "O9"},
+        {"x": "E2", "y": "P0"}
+      ],
+      "weightMin": 91,
+      "weightMax": 100
+    },
+    {
+      "name": "Northern Military Island roadway",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "E3", "y": "N6"},
+        {"x": "E5", "y": "N7"},
+        {"x": "E6", "y": "N7"},
+        {"x": "E7", "y": "N7"},
+        {"x": "E8", "y": "N6"},
+        {"x": "E9", "y": "N6"}
+      ],
+      "weightMin": 91,
+      "weightMax": 100
+    },
+    {
+      "name": "Mylta Southeast coast",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "G8", "y": "L1"}
+      ],
+      "weightMin": 91,
+      "weightMax": 100
+    },
+    {
+      "name": "Western Primorsk Coast",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "A4", "y": "M9"},
+        {"x": "A4", "y": "N0"},
+        {"x": "A7", "y": "M8"},
+        {"x": "A8", "y": "M7"},
+        {"x": "A8", "y": "N4"}
+      ],
+      "weightMin": 91,
+      "weightMax": 100
+    },
+    {
+      "name": "Coast north of Lipovka",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "G6", "y": "K2"},
+        {"x": "G7", "y": "K2"},
+        {"x": "G7", "y": "K3"},
+        {"x": "G8", "y": "K5"},
+        {"x": "G9", "y": "K4"},
+        {"x": "G9", "y": "K5"}
+      ],
+      "weightMin": 91,
+      "weightMax": 100
+    },
+    {
+      "name": "Coast north of Stalber",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "F1", "y": "I5"},
+        {"x": "F4", "y": "I5"},
+        {"x": "F6", "y": "I3"},
+        {"x": "F6", "y": "I4"},
+        {"x": "F9", "y": "I3"},
+        {"x": "F9", "y": "I4"}
+      ],
+      "weightMin": 91,
+      "weightMax": 100
+    },
+    {
+      "name": "Immediately",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [],
+      "weightMin": 91,
+      "weightMax": 100
+    },
+    {
+      "name": "North of Rozhok, across the river",
+      "skipped": false,
+      "blacklisted": false,
+      "coords": [
+        {"x": "D3", "y": "K1"},
+        {"x": "D5", "y": "K1"},
+        {"x": "D5", "y": "K4"},
+        {"x": "D7", "y": "K3"},
+        {"x": "D8", "y": "K3"},
+        {"x": "D8", "y": "K4"},
+        {"x": "E0", "y": "K2"},
+        {"x": "E1", "y": "K1"},
+        {"x": "E1", "y": "K3"},
+        {"x": "E1", "y": "K5"}
+      ],
+      "weightMin": 91,
+      "weightMax": 100
+    }
+  ]
+}
